@@ -7,7 +7,7 @@ particlesJS('particles-js', {
   particles: {
     color: '#fff', // Color del vertice
     color_random: false,
-    shape: 'circle', // "circle", "edge" or "triangle" // Establecemos cual de las 3 figuras queremos para vertice
+    shape: 'triangle', // "circle", "edge" or "triangle" // Establecemos cual de las 3 figuras queremos para vertice
     opacity: {
       opacity: 1, // Opacidad del vertice
       anim: {
